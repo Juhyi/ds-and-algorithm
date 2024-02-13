@@ -2,7 +2,9 @@
 # desc : 단순연결리스트 일반 구현
 
 memory = [] # 컴퓨터 메모리를 유사구성
+# head, curr, prev 일반변수
 head, curr, prev = None, None, None
+
 
 class Node():
     # data, link 두 개의 멤버변수 존재
@@ -24,7 +26,7 @@ dataArray = ['다현', '정연', '쯔위', '사나', '지효']
 
 # 메인 시작
 if __name__ == '__main__':
-    node = Node(dataArray[0])
+    node = Node(dataArray[0]) # '다현' 데이터를 담은 노드 생성
     head = node  # 첫번째 값을 head가 가리킴
     memory.append(node) # 가짜 메모리에 집어넣음
 
