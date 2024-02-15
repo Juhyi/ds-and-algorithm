@@ -31,6 +31,7 @@
 
 ## 4일차
 - 파이썬 자료구조
+  - 큐 다시
   - 트리
   - 그래프
 ## 5일차
@@ -41,3 +42,6 @@
 
 
 
+
+
+[def]: https://raw.githubusercontent.com/Juhyi/ds-and-algorithm/main/imges/ds01.png
