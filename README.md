@@ -39,9 +39,3 @@
 ## 6일차
 
 ## 7일차
-
-
-
-
-
-[def]: https://raw.githubusercontent.com/Juhyi/ds-and-algorithm/main/imges/ds01.png
