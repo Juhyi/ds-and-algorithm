@@ -25,7 +25,7 @@
    ![stack](https://cs.lmu.edu/~ray/images/stack.gif)
   - 큐 : First In First Out (FIFO)
 
-   ![queue](https://upload.wikimedia.org/wikipedia/commons/6/6d/QUEUE.png)
+   ![queue](https://raw.githubusercontent.com/Juhyi/ds-and-algorithm/main/imges/ds01.png)
   - 트리
   - 그래프
 
