@@ -48,9 +48,19 @@
    ![그래프](https://raw.githubusercontent.com/Juhyi/ds-and-algorithm/main/images/ghraph.png)
 
 
-## 6일차
-- 파이썬 자료구조/알고리즘
-  - 재귀호출
-  - 정렬
+## 6일차 
+- 파이썬 자료구조 / 알고리즘
+    - 재귀호출
+    - 정렬
+        - 선택정렬 = SELECTION SORT - 최솟값을 찾아서 맨 앞으로 = O(N^2)
+        - 삽입정렬 = INSERTION SORT - 기준값 기준 앞 뒤로 보내는 정렬 = O(N^2)
+        - 버블정렬 = BUBBLE SORT - 기준값 기준으로 제일 큰값으로 뒤로 정렬 = O(N^2)
+        - 퀵정렬 = QUICK SORT - 기준값 기준으로 작은값, 큰값 그룹을 분리한뒤 다시 정렬 재귀 호출 = O(nlogn)
+
+   ![sorting](https://raw.githubusercontent.com/Juhyi/ds-and-algorithm/main/images/sorting.png)
+
 
 ## 7일차
+- 파이썬 자료구조 / 알고리즘
+    - 검색
+- Coding Test
