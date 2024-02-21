@@ -45,7 +45,7 @@
 - 파이썬 자료구조/알고리즘
   - 그래프
    
-   ![그래프](https://raw.githubusercontent.com/Juhyi/ds-and-algorithm/main/images/ghraph.png)
+   ![그래프](https://raw.githubusercontent.com/Juhyi/ds-and-algorithm/main/images/graph02.png)
 
 
 ## 6일차 
@@ -57,7 +57,7 @@
         - 버블정렬 = BUBBLE SORT - 기준값 기준으로 제일 큰값으로 뒤로 정렬 = O(N^2)
         - 퀵정렬 = QUICK SORT - 기준값 기준으로 작은값, 큰값 그룹을 분리한뒤 다시 정렬 재귀 호출 = O(nlogn)
 
-   ![sorting](https://raw.githubusercontent.com/Juhyi/ds-and-algorithm/main/images/sorting.png)
+   ![sorting](https://raw.githubusercontent.com/Juhyi/ds-and-algorithm/main/images/sorting.jpg)
 
 
 ## 7일차
