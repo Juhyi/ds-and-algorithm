@@ -1,5 +1,5 @@
 # ds-and-algorithm
-부경대 IoT 개발자 Python 자료구조와 알고리즈 학습 Repository
+부경대 IoT 개발자 Python 자료구조와 알고리즘 학습 Repository
 
 ## 1일차
 - 자료구조; 알고리즘 개요
